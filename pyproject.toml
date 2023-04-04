@@ -7,6 +7,11 @@ authors = [
 dynamic = ["version"]
 readme = "README.md"
 requires-python = ">=3.9"
+dependencies = [
+    "fastapi>=0.95.0",
+    "eventbrite>=3.3.5",
+    "pyrogram>=2.0.103",
+]
 
 [tool.pdm.dev-dependencies]
 test = [
