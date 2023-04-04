@@ -18,7 +18,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
   palette:
-    - scheme:futura
+    - scheme:deepblue
   features:
     - search.suggest
     - search.highlight
